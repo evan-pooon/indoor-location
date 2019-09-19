@@ -1,0 +1,5 @@
+**.DS_Store
+training*.csv
+validation*.csv
+input.*
+.ipynb_checkpoints
